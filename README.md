@@ -1,2 +1,2 @@
 # LearnJS
-Learn JS &amp; ES6
+Learn JavaScript &amp; ES6
